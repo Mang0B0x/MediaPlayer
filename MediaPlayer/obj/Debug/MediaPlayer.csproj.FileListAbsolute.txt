@@ -1,0 +1,17 @@
+C:\Users\yazilim.stajyer2\Desktop\C# STAJ\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+C:\Users\yazilim.stajyer2\Desktop\C# STAJ\MediaPlayer\MediaPlayer\obj\Debug\MainWindow.baml
+C:\Users\yazilim.stajyer2\Desktop\C# STAJ\MediaPlayer\MediaPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\yazilim.stajyer2\Desktop\C# STAJ\MediaPlayer\MediaPlayer\obj\Debug\App.g.cs
+C:\Users\yazilim.stajyer2\Desktop\C# STAJ\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.cache
+C:\Users\yazilim.stajyer2\Desktop\C# STAJ\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.g.resources
+C:\Users\yazilim.stajyer2\Desktop\C# STAJ\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+C:\Users\yazilim.stajyer2\Desktop\C# STAJ\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+C:\Users\yazilim.stajyer2\Desktop\C# STAJ\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Users\yazilim.stajyer2\Desktop\C# STAJ\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Users\yazilim.stajyer2\Desktop\C# STAJ\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+C:\Users\yazilim.stajyer2\Desktop\C# STAJ\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
+C:\Users\yazilim.stajyer2\Desktop\C# STAJ\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.manifest
+C:\Users\yazilim.stajyer2\Desktop\C# STAJ\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.application
+C:\Users\yazilim.stajyer2\Desktop\C# STAJ\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\yazilim.stajyer2\Desktop\C# STAJ\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe.manifest
+C:\Users\yazilim.stajyer2\Desktop\C# STAJ\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.application

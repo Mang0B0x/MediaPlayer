@@ -1,0 +1,47 @@
+﻿<Window x:Class="WpfGun7_250717.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AydınlıMediaPlayer" Height="404.332" Width="516.155">
+    <Grid Background="Black">
+        <MediaElement    Name="Media" HorizontalAlignment="Right" Height="220" VerticalAlignment="Top" LoadedBehavior="Manual" 
+                        
+                        UnloadedBehavior="Stop" Stretch="Fill" Width="512" Margin="0,-3,3,0" RenderTransformOrigin="0.468,0.414">
+
+            <MediaElement.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.243"/>
+                    <TranslateTransform X="-0.155" Y="0.128"/>
+                </TransformGroup>
+            </MediaElement.RenderTransform>
+        </MediaElement>
+        <Button Name="ButonPlay" Content="Çal" HorizontalAlignment="Left" Margin="26,320,0,0" VerticalAlignment="Top" Width="66" RenderTransformOrigin="0.231,-0.122" Height="28" Click="ButonPlay_Click" Background="#FFD1D0CB" FontWeight="Bold">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.537"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button Name="ButonPause" Content="Durdur" HorizontalAlignment="Left" Margin="125,320,0,0" VerticalAlignment="Top" Width="71" Height="28" Click="ButonPause_Click" FontWeight="Bold" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.692"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Slider Name="SliderSes" HorizontalAlignment="Left" VerticalAlignment="Top" Height="31" Width="76" Margin="314,310,0,0" ValueChanged="SliderSes_ValueChanged"/>
+        <Label Name="LabelSes" Content="Ses" HorizontalAlignment="Left" Margin="325,284,0,0" VerticalAlignment="Top" Foreground="#FFF0F0F0" FontWeight="Bold"/>
+        <Label Name="LabelHiz" Content="Oynatma Hızı" HorizontalAlignment="Left" Margin="413,284,0,0" VerticalAlignment="Top" Foreground="#FFD8C3C3" FontWeight="Bold"/>
+        <Slider Name="SliderHiz" HorizontalAlignment="Left" Margin="413,310,0,0" VerticalAlignment="Top" Width="81" ValueChanged="SliderHiz_ValueChanged"/>
+        <Label Name="LabelDosya" Content="Dosyalar:" HorizontalAlignment="Left" Margin="11,240,0,0" VerticalAlignment="Top" Width="379" Background="#FF976F6F" Foreground="Black" FontWeight="Bold" FontSize="14"/>
+        <Button Name="ButonAra" Content="Ara" HorizontalAlignment="Left" Margin="413,240,0,0" VerticalAlignment="Top" Width="65" Click="ButonAra_Click" FontWeight="Bold" Height="23"/>
+
+    </Grid>
+</Window>
